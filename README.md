@@ -1,4 +1,7 @@
 # Home-Credit-Default-Risk
+Updated on Dec 17th, the steps in EDA, feature selection, and data resampling is automated and one can import those packages to avoid repetitive tasks.
+
+
 This is a kaggle project. You can find detailed problem descripition and datasets from this link: https://www.kaggle.com/c/home-credit-default-risk
 
 This project contains a large amount of missing values for certain features and target variables are not balanced.
